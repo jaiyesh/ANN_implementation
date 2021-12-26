@@ -8,3 +8,8 @@ ANN_implementation
 conda create --prefix ./envs
 
 ```
+
+
+## Reference - 
+* [ Conda ENv commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
